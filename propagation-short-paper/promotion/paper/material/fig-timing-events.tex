@@ -1,0 +1,57 @@
+%!TEX root = ../main.tex
+% \definecolor{gray}{RGB}{31,119,180}
+
+% \definecolor{light-gray}{gray}{0.85}
+
+
+\begin{tikzpicture}[node distance=2cm]
+%define styles
+\tikzstyle{startstop} = [circle, rounded corners, minimum width=0.6cm, minimum height=0.3cm,text centered, draw=black]
+[
+->,
+>=stealth',
+auto,node distance=3cm,
+thick,
+main node/.style={circle, draw, font=\sffamily\Large\bfseries}
+]
+\tikzstyle{arrow} = [thick,->,>=stealth]]
+\tikzstyle{darrow} = [dotted,->,>=stealth]]
+%first and second column
+
+\node (r0) [startstop, xshift = -3cm, draw = none] {};
+\node (r999) [startstop, xshift = 13cm, draw = none] {};
+
+\node (r1) [startstop, xshift = -1cm] {\footnotesize $~\,s_t\,~$};
+\node (r2) [startstop, xshift = 5cm] {\footnotesize $s_{t+1}$};  %previously 4
+\node (r3) [startstop, xshift = 11cm] {\footnotesize $s_{t+2}$}; %previously 8
+
+\draw [arrow, dashed] (r0) -- node[anchor=south] {} (r1) ;
+\draw [arrow] (r1) -- node[anchor=south] {} (r2) ;
+\draw [arrow] (r2) -- node[anchor=south] {} (r3) ;
+\draw [arrow, dashed] (r3) -- node[anchor=south] {} (r999) ;
+t
+\node (r4) [startstop, xshift = 0 cm, yshift = -2.5cm, inner sep = 0.08cm] {\footnotesize $~\,a_t\,~$ };
+\node (r5) [startstop, xshift = 3.5
+ cm, yshift = -2.5cm, inner sep = 0.08cm] {\footnotesize $~\,u_t\,~$ };
+\node (r6) [startstop, xshift = 6 cm, yshift = -2.5cm, inner sep = 0.08cm] {\footnotesize $a_{t+1}$ };
+\node (r7) [startstop, xshift = 9.5 cm, yshift = -2.5cm, inner sep = 0.08cm] {\footnotesize $u_{t+1}$ };
+
+\draw [arrow] (r1) -- node[anchor=south] {} (r4) ;
+\draw [arrow] (r2) -- node[anchor=south] {} (r6) ;
+
+\draw[ thick](0,-2.05).. controls (0.75, -0.2) and (0.8,0)..(1.5, 0);
+\draw [arrow] (r4) -- node[anchor=south] {} (r5) ;
+\draw[ thick](6,-2.05).. controls (6.75, -0.2) and (6.85,0)..(7.5, 0);
+\draw [arrow] (r6) -- node[anchor=south] {} (r7) ;
+
+
+\node(r8)[startstop, xshift = - 1.3cm, yshift = -1.3cm, draw =none, align=center] {\footnotesize decide \\ \footnotesize $d_t^{\pi}(s_t)$ };
+\node(r9)[startstop, xshift= 4.6cm, yshift = -1.3cm, draw =none, align = center] {\footnotesize decide \\ \footnotesize $d_{t+1}^{\pi}(s_{t+1})$ };
+\node(r10)[startstop, yshift = 1cm, xshift = 2cm, draw =none, align=center ] {\footnotesize transition \\ \footnotesize $p_t(s_t, a_t)$};
+\node(r11)[startstop, yshift = 1cm, xshift = 8cm, draw =none, align=center ] { \footnotesize transition \\ \footnotesize $p_{t+1}(s_{t+1}, a_{t+1})$};
+%\node(r10)[startstop, yshift = 0.5cm, xshift = 1.7cm, draw =none, align=center ] {\footnotesize transition \\ \footnotesize $p(s_t, a_t)$};
+%\node(r11)[startstop, yshift = 0.5cm, xshift = 8cm, draw =none, align=center ] {\footnotesize transition \\ \footnotesize $p(s_{t+1}, a_{t+1})$};
+\node(r12)[startstop, yshift = -2cm, xshift = 1.7cm, draw =none, align=center ] {\footnotesize receive\\ \footnotesize $u_t(s_t, a_t)$};
+\node(r13)[startstop, yshift = -2cm, xshift = 7.7cm, draw =none, align=center ] {\footnotesize receive\\ \footnotesize $u_{t+1}(s_{t+1}, a_{t+1})$};
+
+\end{tikzpicture}

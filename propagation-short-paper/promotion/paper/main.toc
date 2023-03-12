@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Structural models for policy-making}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Uncertainty sets}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Statistical decision theory}{5}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Eckstein-Keane-Wolpin models}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}General structure}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The career decisions of young men}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Confidence set bootstrap}{13}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Results}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}General subsidy}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Targeted subsidy}{16}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Conclusion}{19}{section.5}%
+\contentsline {section}{\numberline {A}Appendix}{A-1}{appendix.1.A}%
+\contentsline {subsection}{\numberline {A.1}Computation}{A-1}{subsection.1.A.1}%
+\contentsline {paragraph}{\nonumberline Blue-collar}{A-2}{section*.16}%
+\contentsline {paragraph}{\nonumberline White-collar}{A-2}{section*.17}%
+\contentsline {paragraph}{\nonumberline Military}{A-2}{section*.18}%
+\contentsline {paragraph}{\nonumberline School}{A-2}{section*.19}%
+\contentsline {paragraph}{\nonumberline Home}{A-3}{section*.20}%
+\contentsline {paragraph}{\nonumberline Blue-collar}{A-4}{section*.22}%
+\contentsline {paragraph}{\nonumberline White-collar}{A-4}{section*.23}%
+\contentsline {paragraph}{\nonumberline Military}{A-4}{section*.24}%
+\contentsline {subsection}{\numberline {A.2}Data}{A-6}{subsection.1.A.2}%
+\contentsline {subsection}{\numberline {A.3}Results}{A-9}{subsection.1.A.3}%

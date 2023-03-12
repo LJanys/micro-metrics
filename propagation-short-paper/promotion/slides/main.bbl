@@ -1,0 +1,1947 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Adda.2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e3d2eba36c974cdd5fd631bc9cdc6d6e}{%
+           family={Adda},
+           familyi={A\bibinitperiod},
+           given={J{é}r{ô}me},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e26258e53a5d323c8365d750c1a63e0e}{%
+           family={Dustmann},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d48ba495c415e4861e337217ea972d3a}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={Katrien},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press Chicago, IL}%
+      }
+      \strng{namehash}{f6d5778f268e564bbc1c423e10577146}
+      \strng{fullhash}{8aaface7ef450ea5abace138921ecf56}
+      \strng{bibnamehash}{8aaface7ef450ea5abace138921ecf56}
+      \strng{authorbibnamehash}{8aaface7ef450ea5abace138921ecf56}
+      \strng{authornamehash}{f6d5778f268e564bbc1c423e10577146}
+      \strng{authorfullhash}{8aaface7ef450ea5abace138921ecf56}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{2}
+      \field{title}{The career costs of children}
+      \field{volume}{125}
+      \field{year}{2017}
+      \field{pages}{293\bibrangedash 337}
+      \range{pages}{45}
+    \endentry
+    \entry{Andrews.2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fffe81ec7237c0735d37245f7d43b67d}{%
+           family={Andrews},
+           familyi={A\bibinitperiod},
+           given={Isaiah},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f632dc67b8bd2566eae625ec44fafd0}{%
+           family={Gentzkow},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c79dd8f85eed6a02cd9ccbc44c47c51}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={Jesse\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{4992cf8f84e27555b4308aeedeb0edfd}
+      \strng{fullhash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{bibnamehash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{authorbibnamehash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{authornamehash}{4992cf8f84e27555b4308aeedeb0edfd}
+      \strng{authorfullhash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{4}
+      \field{title}{Measuring the sensitivity of parameter estimates to estimation moments}
+      \field{volume}{132}
+      \field{year}{2017}
+      \field{pages}{1553\bibrangedash 1592}
+      \range{pages}{40}
+    \endentry
+    \entry{Andrews.2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fffe81ec7237c0735d37245f7d43b67d}{%
+           family={Andrews},
+           familyi={A\bibinitperiod},
+           given={Isaiah},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f632dc67b8bd2566eae625ec44fafd0}{%
+           family={Gentzkow},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c79dd8f85eed6a02cd9ccbc44c47c51}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={Jesse\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4992cf8f84e27555b4308aeedeb0edfd}
+      \strng{fullhash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{bibnamehash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{authorbibnamehash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{authornamehash}{4992cf8f84e27555b4308aeedeb0edfd}
+      \strng{authorfullhash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica}
+      \field{number}{6}
+      \field{title}{On the informativeness of descriptive statistics for structural estimates}
+      \field{volume}{88}
+      \field{year}{2020}
+      \field{pages}{2231\bibrangedash 2258}
+      \range{pages}{28}
+    \endentry
+    \entry{Berger.2021}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=1a25c175a266eb6737017075442f9d0b}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Lo{ï}c},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74d4ee61ca77486f49672be587d1eef0}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d73e7724f0290f90b17bbf8a75420f9c}{%
+           family={Bosetti},
+           familyi={B\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cdcd3e31354c4e936987b8f22726de6}{%
+           family={Gilboa},
+           familyi={G\bibinitperiod},
+           given={Itzhak},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1954df31fff05759fb382c941707eb0}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Lars\bibnamedelima Peter},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17cc7a5d7152af5ac2564a70af161f63}{%
+           family={Jarvis},
+           familyi={J\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afe7ab37ddb98e9245692a9cd398b777}{%
+           family={Marinacci},
+           familyi={M\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf79f0d71a3ab9d38f583ffdc08ff09d}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a7e0a0048da8845ef44f81fa92d3be2}
+      \strng{fullhash}{d918569368475968dd844265950cb3b9}
+      \strng{bibnamehash}{d918569368475968dd844265950cb3b9}
+      \strng{authorbibnamehash}{d918569368475968dd844265950cb3b9}
+      \strng{authornamehash}{3a7e0a0048da8845ef44f81fa92d3be2}
+      \strng{authorfullhash}{d918569368475968dd844265950cb3b9}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{4}
+      \field{title}{Rational policymaking during a pandemic}
+      \field{volume}{118}
+      \field{year}{2021}
+    \endentry
+    \entry{Blundell.2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=201b803c1acac5e453b4e3a14b816b3b}{%
+           family={Blundell},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6441ff9b62e2116aa3ba8ecdcc419dae}{%
+           family={Costa\bibnamedelima Dias},
+           familyi={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99abebe08a1fa906efa0f91c83b579ff}{%
+           family={Meghir},
+           familyi={M\bibinitperiod},
+           given={Costas},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e51275f26a65eceeff3708b039a646c}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{90a4ccf6b58d7a51c83f61412095db89}
+      \strng{fullhash}{32df6fe7852c946ab2e4883dc9206411}
+      \strng{bibnamehash}{32df6fe7852c946ab2e4883dc9206411}
+      \strng{authorbibnamehash}{32df6fe7852c946ab2e4883dc9206411}
+      \strng{authornamehash}{90a4ccf6b58d7a51c83f61412095db89}
+      \strng{authorfullhash}{32df6fe7852c946ab2e4883dc9206411}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica}
+      \field{number}{5}
+      \field{title}{Female labor supply, human capital, and welfare reform}
+      \field{volume}{84}
+      \field{year}{2016}
+      \field{pages}{1705\bibrangedash 1753}
+      \range{pages}{49}
+    \endentry
+    \entry{Blundell.2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=201b803c1acac5e453b4e3a14b816b3b}{%
+           family={Blundell},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10a4e2717f9495eaab70f4d6676c96c6}{%
+           family={Shephard},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{fullhash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{bibnamehash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{authorbibnamehash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{authornamehash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{authorfullhash}{f44c48dc62742dfffef9f7c51db64336}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Economic Studies}
+      \field{number}{2}
+      \field{title}{{Employment, hours of work and the optimal taxation of low-income families}}
+      \field{volume}{79}
+      \field{year}{2012}
+      \field{pages}{481\bibrangedash 510}
+      \range{pages}{30}
+    \endentry
+    \entry{Cai.2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2db2a7554d3e509982dc843209da7843}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Yongyang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df65631223295d350db73f90d8905984}{%
+           family={Lontzek},
+           familyi={L\bibinitperiod},
+           given={Thomas\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press Chicago, IL}%
+      }
+      \strng{namehash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{fullhash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{bibnamehash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{authorbibnamehash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{authornamehash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{authorfullhash}{845d9a22b18166b774fe93e163c1bea9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{6}
+      \field{title}{The social cost of carbon with economic and climate risks}
+      \field{volume}{127}
+      \field{year}{2019}
+      \field{pages}{2684\bibrangedash 2734}
+      \range{pages}{51}
+    \endentry
+    \entry{Christensen.2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4dd8dc8d45e4daad2abf27895596eb9d}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=649e2feb2d5bf3ec29b18baae1819485}{%
+           family={Connault},
+           familyi={C\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{fullhash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{bibnamehash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{authorbibnamehash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{authornamehash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{authorfullhash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1904.00989}
+      \field{title}{Counterfactual sensitivity and robustness}
+      \field{year}{2019}
+    \endentry
+    \entry{Cunha.2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=95879561df1d4fe8a5a8dafde92a6aaa}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={Flavio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b70b920520f54634a1f03f9312707db2}{%
+           family={Heckman},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3433a7bb7f28012e8f57fe0db6e298e}{%
+           family={Schennach},
+           familyi={S\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbca6269e492a675000ada7ff19ec2f6}
+      \strng{fullhash}{05b8c9e221898ed53e5efcb493ef9f9d}
+      \strng{bibnamehash}{05b8c9e221898ed53e5efcb493ef9f9d}
+      \strng{authorbibnamehash}{05b8c9e221898ed53e5efcb493ef9f9d}
+      \strng{authornamehash}{cbca6269e492a675000ada7ff19ec2f6}
+      \strng{authorfullhash}{05b8c9e221898ed53e5efcb493ef9f9d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica}
+      \field{number}{3}
+      \field{title}{Estimating the technology of cognitive and noncognitive skill formation}
+      \field{volume}{78}
+      \field{year}{2010}
+      \field{pages}{883\bibrangedash 931}
+      \range{pages}{49}
+    \endentry
+    \entry{Eisenhauer.2015b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1ee7a05fec945c40e7cb966f9d299c1b}{%
+           family={Eisenhauer},
+           familyi={E\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b70b920520f54634a1f03f9312707db2}{%
+           family={Heckman},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d98888f2e2f7fe0590c925919834098e}{%
+           family={Mosso},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{76dd1e7a45e5c6d0e14b31fe4c609940}
+      \strng{fullhash}{143e10c7e08a6476468b490be95ee079}
+      \strng{bibnamehash}{143e10c7e08a6476468b490be95ee079}
+      \strng{authorbibnamehash}{143e10c7e08a6476468b490be95ee079}
+      \strng{authornamehash}{76dd1e7a45e5c6d0e14b31fe4c609940}
+      \strng{authorfullhash}{143e10c7e08a6476468b490be95ee079}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Economic Review}
+      \field{number}{2}
+      \field{title}{Estimation of dynamic discrete choice models by maximum likelihood and the simulated method of moments}
+      \field{volume}{56}
+      \field{year}{2015}
+      \field{pages}{331\bibrangedash 357}
+      \range{pages}{27}
+    \endentry
+    \entry{Gilboa.2009}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cdcd3e31354c4e936987b8f22726de6}{%
+           family={Gilboa},
+           familyi={G\bibinitperiod},
+           given={Itzhak},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{fullhash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{bibnamehash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{authorbibnamehash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{authornamehash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{authorfullhash}{2cdcd3e31354c4e936987b8f22726de6}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory of decision under uncertainty}
+      \field{year}{2009}
+    \endentry
+    \entry{Hansen.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1954df31fff05759fb382c941707eb0}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Lars\bibnamedelima Peter},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1954df31fff05759fb382c941707eb0}
+      \strng{fullhash}{e1954df31fff05759fb382c941707eb0}
+      \strng{bibnamehash}{e1954df31fff05759fb382c941707eb0}
+      \strng{authorbibnamehash}{e1954df31fff05759fb382c941707eb0}
+      \strng{authornamehash}{e1954df31fff05759fb382c941707eb0}
+      \strng{authorfullhash}{e1954df31fff05759fb382c941707eb0}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Economics}
+      \field{number}{1}
+      \field{title}{Uncertainty spillovers for markets and policy}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{371\bibrangedash 396}
+      \range{pages}{26}
+    \endentry
+    \entry{Harenberg.2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cb956acad558f30824de2a95099cb137}{%
+           family={Harenberg},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df25edd86550b4ac6dfd6bb02ed2ee34}{%
+           family={Marelli},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2abed76f47b747f79ac23afd26cf6fc1}{%
+           family={Sudret},
+           familyi={S\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e866562f3e3d1b7d38b3b238664e0b1}{%
+           family={Winschel},
+           familyi={W\bibinitperiod},
+           given={Viktor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35b405a6a41abd534d0cb1ade94b8528}
+      \strng{fullhash}{9a5c602b95d15928e11e91727a3e4eff}
+      \strng{bibnamehash}{9a5c602b95d15928e11e91727a3e4eff}
+      \strng{authorbibnamehash}{9a5c602b95d15928e11e91727a3e4eff}
+      \strng{authornamehash}{35b405a6a41abd534d0cb1ade94b8528}
+      \strng{authorfullhash}{9a5c602b95d15928e11e91727a3e4eff}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quantitative Economics}
+      \field{number}{1}
+      \field{title}{Uncertainty quantification and global sensitivity analysis for economic models}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 41}
+      \range{pages}{41}
+    \endentry
+    \entry{Hood.1953}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18e36c7d8b10e0c785dad68ffa21302c}{%
+           family={Hood},
+           familyi={H\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=daab34ef65fc74cdb1217205c9c0f701}{%
+           family={Koopmans},
+           familyi={K\bibinitperiod},
+           given={Tjalling},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Cowles Commission For Research in Economics}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{15527806191919ba2d62d7f5de93becf}
+      \strng{fullhash}{15527806191919ba2d62d7f5de93becf}
+      \strng{bibnamehash}{15527806191919ba2d62d7f5de93becf}
+      \strng{authorbibnamehash}{15527806191919ba2d62d7f5de93becf}
+      \strng{authornamehash}{15527806191919ba2d62d7f5de93becf}
+      \strng{authorfullhash}{15527806191919ba2d62d7f5de93becf}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Studies in econometric method}
+      \field{year}{1953}
+    \endentry
+    \entry{Jorgensen.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7dc66a774523270351be20945d783294}{%
+           family={J{ø}rgensen},
+           familyi={J\bibinitperiod},
+           given={Thomas\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7dc66a774523270351be20945d783294}
+      \strng{fullhash}{7dc66a774523270351be20945d783294}
+      \strng{bibnamehash}{7dc66a774523270351be20945d783294}
+      \strng{authorbibnamehash}{7dc66a774523270351be20945d783294}
+      \strng{authornamehash}{7dc66a774523270351be20945d783294}
+      \strng{authorfullhash}{7dc66a774523270351be20945d783294}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Economics and Statistics, forthcoming}
+      \field{title}{Sensitivity to calibrated parameters}
+      \field{year}{2021}
+    \endentry
+    \entry{Keane.2011d}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cc85af386098cb9c11d24d4ca26249ca}{%
+           family={Keane},
+           familyi={K\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2a2e53cb36906936ce1abdb635a4c9a}{%
+           family={Todd},
+           familyi={T\bibinitperiod},
+           given={Petra\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8a002aed1dcc6a41867dec79ca5563}{%
+           family={Wolpin},
+           familyi={W\bibinitperiod},
+           given={Kenneth\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=993ce64d77d8adbba713334d88e13db8}{%
+           family={Ashenfelter},
+           familyi={A\bibinitperiod},
+           given={Orley},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a9e88233ec6ce30d2d31e294961e3e76}{%
+           family={Card},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science}%
+      }
+      \strng{namehash}{49cfbad39210f817ce5d55aa8775f8e6}
+      \strng{fullhash}{f17ecf5cfdcdd18d8e21810f69e79b5b}
+      \strng{bibnamehash}{f17ecf5cfdcdd18d8e21810f69e79b5b}
+      \strng{authorbibnamehash}{f17ecf5cfdcdd18d8e21810f69e79b5b}
+      \strng{authornamehash}{49cfbad39210f817ce5d55aa8775f8e6}
+      \strng{authorfullhash}{f17ecf5cfdcdd18d8e21810f69e79b5b}
+      \strng{editorbibnamehash}{c66a1f59fd9ae950654a90de9bd00623}
+      \strng{editornamehash}{c66a1f59fd9ae950654a90de9bd00623}
+      \strng{editorfullhash}{c66a1f59fd9ae950654a90de9bd00623}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Labor Economics}
+      \field{title}{The structural estimation of behavioral models: Discrete choice dynamic programming methods and applications}
+      \field{year}{2011}
+      \field{pages}{331\bibrangedash 461}
+      \range{pages}{131}
+    \endentry
+    \entry{Keane.1997}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cc85af386098cb9c11d24d4ca26249ca}{%
+           family={Keane},
+           familyi={K\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8a002aed1dcc6a41867dec79ca5563}{%
+           family={Wolpin},
+           familyi={W\bibinitperiod},
+           given={Kenneth\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{fullhash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{bibnamehash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{authorbibnamehash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{authornamehash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{authorfullhash}{8fee444730f4c76b1836c69f3e744e3a}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{3}
+      \field{title}{The career decisions of young men}
+      \field{volume}{105}
+      \field{year}{1997}
+      \field{pages}{473\bibrangedash 522}
+      \range{pages}{50}
+    \endentry
+    \entry{Manski.2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af7d401f5054eb76507756b744b21667}{%
+           family={Manski},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{af7d401f5054eb76507756b744b21667}
+      \strng{fullhash}{af7d401f5054eb76507756b744b21667}
+      \strng{bibnamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authorbibnamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authornamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authorfullhash}{af7d401f5054eb76507756b744b21667}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Public policy in an uncertain world: Analysis and decisions}
+      \field{year}{2013}
+    \endentry
+    \entry{Manski.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af7d401f5054eb76507756b744b21667}{%
+           family={Manski},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{af7d401f5054eb76507756b744b21667}
+      \strng{fullhash}{af7d401f5054eb76507756b744b21667}
+      \strng{bibnamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authorbibnamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authornamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authorfullhash}{af7d401f5054eb76507756b744b21667}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica}
+      \field{number}{6}
+      \field{title}{Econometrics for decision making: Building foundations sketched by {H}aavelmo and {W}ald}
+      \field{volume}{89}
+      \field{year}{2021}
+      \field{pages}{2827\bibrangedash 2853}
+      \range{pages}{27}
+    \endentry
+    \entry{Miftakhova.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de2b01b63415cfcb088abf75ed9800e3}{%
+           family={Miftakhova},
+           familyi={M\bibinitperiod},
+           given={Alena},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{fullhash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{bibnamehash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{authorbibnamehash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{authornamehash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{authorfullhash}{de2b01b63415cfcb088abf75ed9800e3}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economic Modelling}
+      \field{title}{Global sensitivity analysis for optimal climate policies: {F}inding what truly matters}
+      \field{volume}{105}
+      \field{year}{2021}
+      \field{pages}{105653}
+      \range{pages}{1}
+    \endentry
+    \entry{Council.2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542dbf807c6825455f75670116436ebd}{%
+           family={{National Research Council}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {The National Academies Press}%
+      }
+      \strng{namehash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{bibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorbibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authornamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhash}{542dbf807c6825455f75670116436ebd}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Assessing the reliability of complex models: Mathematical and statistical foundations of verification, validation, and uncertainty quantification}
+      \field{year}{2012}
+    \endentry
+    \entry{Rao.1973}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de7a0bcad1198b029f8ac8e63c5f5225}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={Calyampudi\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{fullhash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{bibnamehash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{authorbibnamehash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{authornamehash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{authorfullhash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Linear statistical inference and its applications}
+      \field{year}{1973}
+    \endentry
+    \entry{SAPEA.2019}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1848c3eef91e8aeff790ca8ee9c7561f}{%
+           family={SAPEA},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Science Advice for Policy by European Academies}%
+      }
+      \strng{namehash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{fullhash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{bibnamehash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{authorbibnamehash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{authornamehash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{authorfullhash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Making sense of science for policy under conditions of complexity and uncertainty}
+      \field{year}{2019}
+    \endentry
+    \entry{Todd.2006}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a2a2e53cb36906936ce1abdb635a4c9a}{%
+           family={Todd},
+           familyi={T\bibinitperiod},
+           given={Petra\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8a002aed1dcc6a41867dec79ca5563}{%
+           family={Wolpin},
+           familyi={W\bibinitperiod},
+           given={Kenneth\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{fullhash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{bibnamehash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{authorbibnamehash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{authornamehash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{authorfullhash}{7145a20332e6d1b4425e63c9270969cd}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{5}
+      \field{title}{Assessing the impact of a school subsidy program in {M}exico: Using a social experiment to validate a dynamic behavioral model of child schooling and fertility}
+      \field{volume}{96}
+      \field{year}{2006}
+      \field{pages}{1384\bibrangedash 1417}
+      \range{pages}{34}
+    \endentry
+    \entry{Woutersen.2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f7bd4a92c4fa94bd49e8c1c3961faa74}{%
+           family={Woutersen},
+           familyi={W\bibinitperiod},
+           given={Tiemen},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=688b890969675ac52b7084317470d9a7}{%
+           family={Ham},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{fullhash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{bibnamehash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{authorbibnamehash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{authornamehash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{authorfullhash}{ed91c9271c0b403f5d146428548f2206}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economics, forthcoming}
+      \field{title}{Confidence sets for continuous and discontinuous functions of parameters}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Adda.2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e3d2eba36c974cdd5fd631bc9cdc6d6e}{%
+           family={Adda},
+           familyi={A\bibinitperiod},
+           given={J{é}r{ô}me},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e26258e53a5d323c8365d750c1a63e0e}{%
+           family={Dustmann},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d48ba495c415e4861e337217ea972d3a}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={Katrien},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press Chicago, IL}%
+      }
+      \strng{namehash}{f6d5778f268e564bbc1c423e10577146}
+      \strng{fullhash}{8aaface7ef450ea5abace138921ecf56}
+      \strng{bibnamehash}{8aaface7ef450ea5abace138921ecf56}
+      \strng{authorbibnamehash}{8aaface7ef450ea5abace138921ecf56}
+      \strng{authornamehash}{f6d5778f268e564bbc1c423e10577146}
+      \strng{authorfullhash}{8aaface7ef450ea5abace138921ecf56}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{2}
+      \field{title}{The career costs of children}
+      \field{volume}{125}
+      \field{year}{2017}
+      \field{pages}{293\bibrangedash 337}
+      \range{pages}{45}
+    \endentry
+    \entry{Andrews.2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fffe81ec7237c0735d37245f7d43b67d}{%
+           family={Andrews},
+           familyi={A\bibinitperiod},
+           given={Isaiah},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f632dc67b8bd2566eae625ec44fafd0}{%
+           family={Gentzkow},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c79dd8f85eed6a02cd9ccbc44c47c51}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={Jesse\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{4992cf8f84e27555b4308aeedeb0edfd}
+      \strng{fullhash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{bibnamehash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{authorbibnamehash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{authornamehash}{4992cf8f84e27555b4308aeedeb0edfd}
+      \strng{authorfullhash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{4}
+      \field{title}{Measuring the sensitivity of parameter estimates to estimation moments}
+      \field{volume}{132}
+      \field{year}{2017}
+      \field{pages}{1553\bibrangedash 1592}
+      \range{pages}{40}
+    \endentry
+    \entry{Andrews.2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fffe81ec7237c0735d37245f7d43b67d}{%
+           family={Andrews},
+           familyi={A\bibinitperiod},
+           given={Isaiah},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f632dc67b8bd2566eae625ec44fafd0}{%
+           family={Gentzkow},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c79dd8f85eed6a02cd9ccbc44c47c51}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={Jesse\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4992cf8f84e27555b4308aeedeb0edfd}
+      \strng{fullhash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{bibnamehash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{authorbibnamehash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \strng{authornamehash}{4992cf8f84e27555b4308aeedeb0edfd}
+      \strng{authorfullhash}{4d14f3bf92b4c7d42ea46efb5106ce74}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica}
+      \field{number}{6}
+      \field{title}{On the informativeness of descriptive statistics for structural estimates}
+      \field{volume}{88}
+      \field{year}{2020}
+      \field{pages}{2231\bibrangedash 2258}
+      \range{pages}{28}
+    \endentry
+    \entry{Berger.2021}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=1a25c175a266eb6737017075442f9d0b}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Lo{ï}c},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74d4ee61ca77486f49672be587d1eef0}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d73e7724f0290f90b17bbf8a75420f9c}{%
+           family={Bosetti},
+           familyi={B\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cdcd3e31354c4e936987b8f22726de6}{%
+           family={Gilboa},
+           familyi={G\bibinitperiod},
+           given={Itzhak},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1954df31fff05759fb382c941707eb0}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Lars\bibnamedelima Peter},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17cc7a5d7152af5ac2564a70af161f63}{%
+           family={Jarvis},
+           familyi={J\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afe7ab37ddb98e9245692a9cd398b777}{%
+           family={Marinacci},
+           familyi={M\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf79f0d71a3ab9d38f583ffdc08ff09d}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a7e0a0048da8845ef44f81fa92d3be2}
+      \strng{fullhash}{d918569368475968dd844265950cb3b9}
+      \strng{bibnamehash}{d918569368475968dd844265950cb3b9}
+      \strng{authorbibnamehash}{d918569368475968dd844265950cb3b9}
+      \strng{authornamehash}{3a7e0a0048da8845ef44f81fa92d3be2}
+      \strng{authorfullhash}{d918569368475968dd844265950cb3b9}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{4}
+      \field{title}{Rational policymaking during a pandemic}
+      \field{volume}{118}
+      \field{year}{2021}
+    \endentry
+    \entry{Blundell.2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=201b803c1acac5e453b4e3a14b816b3b}{%
+           family={Blundell},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6441ff9b62e2116aa3ba8ecdcc419dae}{%
+           family={Costa\bibnamedelima Dias},
+           familyi={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99abebe08a1fa906efa0f91c83b579ff}{%
+           family={Meghir},
+           familyi={M\bibinitperiod},
+           given={Costas},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e51275f26a65eceeff3708b039a646c}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{90a4ccf6b58d7a51c83f61412095db89}
+      \strng{fullhash}{32df6fe7852c946ab2e4883dc9206411}
+      \strng{bibnamehash}{32df6fe7852c946ab2e4883dc9206411}
+      \strng{authorbibnamehash}{32df6fe7852c946ab2e4883dc9206411}
+      \strng{authornamehash}{90a4ccf6b58d7a51c83f61412095db89}
+      \strng{authorfullhash}{32df6fe7852c946ab2e4883dc9206411}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica}
+      \field{number}{5}
+      \field{title}{Female labor supply, human capital, and welfare reform}
+      \field{volume}{84}
+      \field{year}{2016}
+      \field{pages}{1705\bibrangedash 1753}
+      \range{pages}{49}
+    \endentry
+    \entry{Blundell.2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=201b803c1acac5e453b4e3a14b816b3b}{%
+           family={Blundell},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10a4e2717f9495eaab70f4d6676c96c6}{%
+           family={Shephard},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{fullhash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{bibnamehash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{authorbibnamehash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{authornamehash}{f44c48dc62742dfffef9f7c51db64336}
+      \strng{authorfullhash}{f44c48dc62742dfffef9f7c51db64336}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Economic Studies}
+      \field{number}{2}
+      \field{title}{{Employment, hours of work and the optimal taxation of low-income families}}
+      \field{volume}{79}
+      \field{year}{2012}
+      \field{pages}{481\bibrangedash 510}
+      \range{pages}{30}
+    \endentry
+    \entry{Cai.2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2db2a7554d3e509982dc843209da7843}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Yongyang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df65631223295d350db73f90d8905984}{%
+           family={Lontzek},
+           familyi={L\bibinitperiod},
+           given={Thomas\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press Chicago, IL}%
+      }
+      \strng{namehash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{fullhash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{bibnamehash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{authorbibnamehash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{authornamehash}{845d9a22b18166b774fe93e163c1bea9}
+      \strng{authorfullhash}{845d9a22b18166b774fe93e163c1bea9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{6}
+      \field{title}{The social cost of carbon with economic and climate risks}
+      \field{volume}{127}
+      \field{year}{2019}
+      \field{pages}{2684\bibrangedash 2734}
+      \range{pages}{51}
+    \endentry
+    \entry{Christensen.2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4dd8dc8d45e4daad2abf27895596eb9d}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=649e2feb2d5bf3ec29b18baae1819485}{%
+           family={Connault},
+           familyi={C\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{fullhash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{bibnamehash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{authorbibnamehash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{authornamehash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \strng{authorfullhash}{7c4efc2bd59aaefda97af2242992a7cc}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1904.00989}
+      \field{title}{Counterfactual sensitivity and robustness}
+      \field{year}{2019}
+    \endentry
+    \entry{Cunha.2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=95879561df1d4fe8a5a8dafde92a6aaa}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={Flavio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b70b920520f54634a1f03f9312707db2}{%
+           family={Heckman},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3433a7bb7f28012e8f57fe0db6e298e}{%
+           family={Schennach},
+           familyi={S\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbca6269e492a675000ada7ff19ec2f6}
+      \strng{fullhash}{05b8c9e221898ed53e5efcb493ef9f9d}
+      \strng{bibnamehash}{05b8c9e221898ed53e5efcb493ef9f9d}
+      \strng{authorbibnamehash}{05b8c9e221898ed53e5efcb493ef9f9d}
+      \strng{authornamehash}{cbca6269e492a675000ada7ff19ec2f6}
+      \strng{authorfullhash}{05b8c9e221898ed53e5efcb493ef9f9d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica}
+      \field{number}{3}
+      \field{title}{Estimating the technology of cognitive and noncognitive skill formation}
+      \field{volume}{78}
+      \field{year}{2010}
+      \field{pages}{883\bibrangedash 931}
+      \range{pages}{49}
+    \endentry
+    \entry{Eisenhauer.2015b}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1ee7a05fec945c40e7cb966f9d299c1b}{%
+           family={Eisenhauer},
+           familyi={E\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b70b920520f54634a1f03f9312707db2}{%
+           family={Heckman},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d98888f2e2f7fe0590c925919834098e}{%
+           family={Mosso},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{76dd1e7a45e5c6d0e14b31fe4c609940}
+      \strng{fullhash}{143e10c7e08a6476468b490be95ee079}
+      \strng{bibnamehash}{143e10c7e08a6476468b490be95ee079}
+      \strng{authorbibnamehash}{143e10c7e08a6476468b490be95ee079}
+      \strng{authornamehash}{76dd1e7a45e5c6d0e14b31fe4c609940}
+      \strng{authorfullhash}{143e10c7e08a6476468b490be95ee079}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Economic Review}
+      \field{number}{2}
+      \field{title}{Estimation of dynamic discrete choice models by maximum likelihood and the simulated method of moments}
+      \field{volume}{56}
+      \field{year}{2015}
+      \field{pages}{331\bibrangedash 357}
+      \range{pages}{27}
+    \endentry
+    \entry{Gilboa.2009}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cdcd3e31354c4e936987b8f22726de6}{%
+           family={Gilboa},
+           familyi={G\bibinitperiod},
+           given={Itzhak},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{fullhash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{bibnamehash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{authorbibnamehash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{authornamehash}{2cdcd3e31354c4e936987b8f22726de6}
+      \strng{authorfullhash}{2cdcd3e31354c4e936987b8f22726de6}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory of decision under uncertainty}
+      \field{year}{2009}
+    \endentry
+    \entry{Hansen.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1954df31fff05759fb382c941707eb0}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Lars\bibnamedelima Peter},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1954df31fff05759fb382c941707eb0}
+      \strng{fullhash}{e1954df31fff05759fb382c941707eb0}
+      \strng{bibnamehash}{e1954df31fff05759fb382c941707eb0}
+      \strng{authorbibnamehash}{e1954df31fff05759fb382c941707eb0}
+      \strng{authornamehash}{e1954df31fff05759fb382c941707eb0}
+      \strng{authorfullhash}{e1954df31fff05759fb382c941707eb0}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Economics}
+      \field{number}{1}
+      \field{title}{Uncertainty spillovers for markets and policy}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{371\bibrangedash 396}
+      \range{pages}{26}
+    \endentry
+    \entry{Harenberg.2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cb956acad558f30824de2a95099cb137}{%
+           family={Harenberg},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df25edd86550b4ac6dfd6bb02ed2ee34}{%
+           family={Marelli},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2abed76f47b747f79ac23afd26cf6fc1}{%
+           family={Sudret},
+           familyi={S\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e866562f3e3d1b7d38b3b238664e0b1}{%
+           family={Winschel},
+           familyi={W\bibinitperiod},
+           given={Viktor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35b405a6a41abd534d0cb1ade94b8528}
+      \strng{fullhash}{9a5c602b95d15928e11e91727a3e4eff}
+      \strng{bibnamehash}{9a5c602b95d15928e11e91727a3e4eff}
+      \strng{authorbibnamehash}{9a5c602b95d15928e11e91727a3e4eff}
+      \strng{authornamehash}{35b405a6a41abd534d0cb1ade94b8528}
+      \strng{authorfullhash}{9a5c602b95d15928e11e91727a3e4eff}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quantitative Economics}
+      \field{number}{1}
+      \field{title}{Uncertainty quantification and global sensitivity analysis for economic models}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 41}
+      \range{pages}{41}
+    \endentry
+    \entry{Hood.1953}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18e36c7d8b10e0c785dad68ffa21302c}{%
+           family={Hood},
+           familyi={H\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=daab34ef65fc74cdb1217205c9c0f701}{%
+           family={Koopmans},
+           familyi={K\bibinitperiod},
+           given={Tjalling},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Cowles Commission For Research in Economics}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{15527806191919ba2d62d7f5de93becf}
+      \strng{fullhash}{15527806191919ba2d62d7f5de93becf}
+      \strng{bibnamehash}{15527806191919ba2d62d7f5de93becf}
+      \strng{authorbibnamehash}{15527806191919ba2d62d7f5de93becf}
+      \strng{authornamehash}{15527806191919ba2d62d7f5de93becf}
+      \strng{authorfullhash}{15527806191919ba2d62d7f5de93becf}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Studies in econometric method}
+      \field{year}{1953}
+    \endentry
+    \entry{Jorgensen.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7dc66a774523270351be20945d783294}{%
+           family={J{ø}rgensen},
+           familyi={J\bibinitperiod},
+           given={Thomas\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7dc66a774523270351be20945d783294}
+      \strng{fullhash}{7dc66a774523270351be20945d783294}
+      \strng{bibnamehash}{7dc66a774523270351be20945d783294}
+      \strng{authorbibnamehash}{7dc66a774523270351be20945d783294}
+      \strng{authornamehash}{7dc66a774523270351be20945d783294}
+      \strng{authorfullhash}{7dc66a774523270351be20945d783294}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Economics and Statistics, forthcoming}
+      \field{title}{Sensitivity to calibrated parameters}
+      \field{year}{2021}
+    \endentry
+    \entry{Keane.2011d}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cc85af386098cb9c11d24d4ca26249ca}{%
+           family={Keane},
+           familyi={K\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2a2e53cb36906936ce1abdb635a4c9a}{%
+           family={Todd},
+           familyi={T\bibinitperiod},
+           given={Petra\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8a002aed1dcc6a41867dec79ca5563}{%
+           family={Wolpin},
+           familyi={W\bibinitperiod},
+           given={Kenneth\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=993ce64d77d8adbba713334d88e13db8}{%
+           family={Ashenfelter},
+           familyi={A\bibinitperiod},
+           given={Orley},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a9e88233ec6ce30d2d31e294961e3e76}{%
+           family={Card},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science}%
+      }
+      \strng{namehash}{49cfbad39210f817ce5d55aa8775f8e6}
+      \strng{fullhash}{f17ecf5cfdcdd18d8e21810f69e79b5b}
+      \strng{bibnamehash}{f17ecf5cfdcdd18d8e21810f69e79b5b}
+      \strng{authorbibnamehash}{f17ecf5cfdcdd18d8e21810f69e79b5b}
+      \strng{authornamehash}{49cfbad39210f817ce5d55aa8775f8e6}
+      \strng{authorfullhash}{f17ecf5cfdcdd18d8e21810f69e79b5b}
+      \strng{editorbibnamehash}{c66a1f59fd9ae950654a90de9bd00623}
+      \strng{editornamehash}{c66a1f59fd9ae950654a90de9bd00623}
+      \strng{editorfullhash}{c66a1f59fd9ae950654a90de9bd00623}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Labor Economics}
+      \field{title}{The structural estimation of behavioral models: Discrete choice dynamic programming methods and applications}
+      \field{year}{2011}
+      \field{pages}{331\bibrangedash 461}
+      \range{pages}{131}
+    \endentry
+    \entry{Keane.1997}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cc85af386098cb9c11d24d4ca26249ca}{%
+           family={Keane},
+           familyi={K\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8a002aed1dcc6a41867dec79ca5563}{%
+           family={Wolpin},
+           familyi={W\bibinitperiod},
+           given={Kenneth\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{fullhash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{bibnamehash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{authorbibnamehash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{authornamehash}{8fee444730f4c76b1836c69f3e744e3a}
+      \strng{authorfullhash}{8fee444730f4c76b1836c69f3e744e3a}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{3}
+      \field{title}{The career decisions of young men}
+      \field{volume}{105}
+      \field{year}{1997}
+      \field{pages}{473\bibrangedash 522}
+      \range{pages}{50}
+    \endentry
+    \entry{Manski.2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af7d401f5054eb76507756b744b21667}{%
+           family={Manski},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{af7d401f5054eb76507756b744b21667}
+      \strng{fullhash}{af7d401f5054eb76507756b744b21667}
+      \strng{bibnamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authorbibnamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authornamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authorfullhash}{af7d401f5054eb76507756b744b21667}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Public policy in an uncertain world: Analysis and decisions}
+      \field{year}{2013}
+    \endentry
+    \entry{Manski.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af7d401f5054eb76507756b744b21667}{%
+           family={Manski},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{af7d401f5054eb76507756b744b21667}
+      \strng{fullhash}{af7d401f5054eb76507756b744b21667}
+      \strng{bibnamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authorbibnamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authornamehash}{af7d401f5054eb76507756b744b21667}
+      \strng{authorfullhash}{af7d401f5054eb76507756b744b21667}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econometrica}
+      \field{number}{6}
+      \field{title}{Econometrics for decision making: Building foundations sketched by {H}aavelmo and {W}ald}
+      \field{volume}{89}
+      \field{year}{2021}
+      \field{pages}{2827\bibrangedash 2853}
+      \range{pages}{27}
+    \endentry
+    \entry{Miftakhova.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de2b01b63415cfcb088abf75ed9800e3}{%
+           family={Miftakhova},
+           familyi={M\bibinitperiod},
+           given={Alena},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{fullhash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{bibnamehash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{authorbibnamehash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{authornamehash}{de2b01b63415cfcb088abf75ed9800e3}
+      \strng{authorfullhash}{de2b01b63415cfcb088abf75ed9800e3}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economic Modelling}
+      \field{title}{Global sensitivity analysis for optimal climate policies: {F}inding what truly matters}
+      \field{volume}{105}
+      \field{year}{2021}
+      \field{pages}{105653}
+      \range{pages}{1}
+    \endentry
+    \entry{Council.2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542dbf807c6825455f75670116436ebd}{%
+           family={{National Research Council}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {The National Academies Press}%
+      }
+      \strng{namehash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{bibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorbibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authornamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhash}{542dbf807c6825455f75670116436ebd}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Assessing the reliability of complex models: Mathematical and statistical foundations of verification, validation, and uncertainty quantification}
+      \field{year}{2012}
+    \endentry
+    \entry{Rao.1973}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de7a0bcad1198b029f8ac8e63c5f5225}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={Calyampudi\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{fullhash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{bibnamehash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{authorbibnamehash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{authornamehash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \strng{authorfullhash}{de7a0bcad1198b029f8ac8e63c5f5225}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Linear statistical inference and its applications}
+      \field{year}{1973}
+    \endentry
+    \entry{SAPEA.2019}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1848c3eef91e8aeff790ca8ee9c7561f}{%
+           family={SAPEA},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Science Advice for Policy by European Academies}%
+      }
+      \strng{namehash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{fullhash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{bibnamehash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{authorbibnamehash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{authornamehash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \strng{authorfullhash}{1848c3eef91e8aeff790ca8ee9c7561f}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Making sense of science for policy under conditions of complexity and uncertainty}
+      \field{year}{2019}
+    \endentry
+    \entry{Todd.2006}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a2a2e53cb36906936ce1abdb635a4c9a}{%
+           family={Todd},
+           familyi={T\bibinitperiod},
+           given={Petra\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8a002aed1dcc6a41867dec79ca5563}{%
+           family={Wolpin},
+           familyi={W\bibinitperiod},
+           given={Kenneth\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{fullhash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{bibnamehash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{authorbibnamehash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{authornamehash}{7145a20332e6d1b4425e63c9270969cd}
+      \strng{authorfullhash}{7145a20332e6d1b4425e63c9270969cd}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{5}
+      \field{title}{Assessing the impact of a school subsidy program in {M}exico: Using a social experiment to validate a dynamic behavioral model of child schooling and fertility}
+      \field{volume}{96}
+      \field{year}{2006}
+      \field{pages}{1384\bibrangedash 1417}
+      \range{pages}{34}
+    \endentry
+    \entry{Woutersen.2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f7bd4a92c4fa94bd49e8c1c3961faa74}{%
+           family={Woutersen},
+           familyi={W\bibinitperiod},
+           given={Tiemen},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=688b890969675ac52b7084317470d9a7}{%
+           family={Ham},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{fullhash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{bibnamehash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{authorbibnamehash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{authornamehash}{ed91c9271c0b403f5d146428548f2206}
+      \strng{authorfullhash}{ed91c9271c0b403f5d146428548f2206}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economics, forthcoming}
+      \field{title}{Confidence sets for continuous and discontinuous functions of parameters}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

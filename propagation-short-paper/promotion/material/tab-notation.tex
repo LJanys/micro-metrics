@@ -1,0 +1,49 @@
+% !TEX root = ../main.tex
+\begin{ThreePartTable}
+	% Information available at https://ftp.agdsn.de/pub/mirrors/latex/dante/macros/latex/contrib/threeparttablex/threeparttablex.pdf
+	\begin{longtable}{@{}cll@{}}
+		\caption{List of notation}
+		\label{tab:ModelParameters}
+
+		\setlength\extrarowheight{2.5pt}
+
+		% Settings longtable
+		\\
+		\toprule
+		\textbf{Parameter}            &  &  \multicolumn{1}{l}{\textbf{Description}}              \\ \midrule
+		\endfirsthead
+
+		% Alternative 1 header for the beginning on next page
+		%\midrule
+		%Parameter            &  &  \multicolumn{1}{l}{Description}     \\ \midrule
+
+		% Alternative 2 header for the beginning on next page
+		\multicolumn{3}{c}{\tikz\draw [thick,dash dot] (0,0) -- (11.5,0);} \\
+		\multicolumn{3}{c}{continued on next page }  \vspace{-4pt}\\
+		\multicolumn{3}{c}{\tikz\draw [thick,dash dot] (0,0) -- (11.5,0);} \\
+		\endfoot
+
+		\multicolumn{3}{c}{\tikz\draw [thick,dash dot] (0,0) -- (11.5,0);} \\
+		\multicolumn{3}{c}{continued from previous page} \vspace{-4pt} \\
+		\multicolumn{3}{c}{\tikz\draw [thick,dash dot] (0,0) -- (11.5,0);} \\
+		\endhead
+
+
+		\bottomrule
+		\endlastfoot
+
+		% Start table
+		\midrule
+		\multicolumn{3}{l}{Uncertainty propagation}																		 \\ \midrule
+		$\btheta \in \bTheta $		&  	& parameters space of model \\
+		$\btheta^*$								&  	& true parameters \\
+		$\hat{\btheta}_0$ 				&   & point estimate from fitting baseline model to data sample\\
+		$g \in \G $								&  	& policy \\
+		$y_0$											& 	& counterfactual of interest in baseline model \\
+		$y_g$											& 	& counterfactual of interest in modified model by policy $g$ \\
+		$\M_0(\btheta)$ 					&   & baseline model\\
+		$\M_g(\btheta)$ 					&   & modified model under policy $g$\\
+		$\psi$ 										&   & observed sample from population data\\
+		$\Theta_0(\alpha)$ 				  &   & confidence set with coverage probability $1 - \alpha$\\
+	\end{longtable}
+\end{ThreePartTable}

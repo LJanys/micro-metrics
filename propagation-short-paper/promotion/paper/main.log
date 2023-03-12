@@ -1,0 +1,2391 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.18)  14 JUN 2022 11:39
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (./files/header.tex
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2020/01/24 v3.29 KOMA-Script document class (article)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2020/01/24 v3.29 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box45
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 137.
+Package scrartcl Info: You've used standard option `12pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=12pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=12pt' there
+(scrartcl)             instead of `12pt', too.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 2212.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2020/01/24 v3.29 KOMA-Script font size class option (12pt
+)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2020/01/24 v3.29 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count167
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1719.
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\scr@dte@section@maxnumwidth=\skip53
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4723.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4723.
+\scr@dte@part@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4731.
+\scr@dte@subsection@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4741.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4741.
+\scr@dte@subsubsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4751.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4751.
+\scr@dte@paragraph@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4761.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4761.
+\scr@dte@subparagraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4771.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4771.
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+\c@pti@nb@sid@b@x=\box46
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6002.
+\scr@dte@figure@maxnumwidth=\skip61
+\c@figure=\count174
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6014.
+\scr@dte@table@maxnumwidth=\skip62
+\c@table=\count175
+Class scrartcl Info: Redefining `\numberline' on input line 6178.
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen135
+\ar@mcellbox=\box47
+\extrarowheight=\dimen136
+\NC@list=\toks16
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box48
+)
+\everycr=\toks17
+\minrowclearance=\skip65
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count176
+\bibleftmargin=\skip66
+\bibindent=\skip67
+\bibparsep=\skip68
+\bibitemsep=\skip69
+\biblabelsep=\skip70
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box49
+\fn@width=\dimen137
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen138
+\c@nlinenum=\count177
+\TeXr@lab=\toks18
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip71
+\enit@outerparindent=\dimen139
+\enit@toks=\toks19
+\enit@inbox=\box50
+\enit@count@id=\count178
+\enitdp@description=\count179
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/threeparttablex/threeparttablex.s
+ty
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box51
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks20
+)
+\TPTL@width=\skip72
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bbm-macros/bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count180
+\c@ALG@rem=\count181
+\c@ALG@nested=\count182
+\ALG@tlm=\skip73
+\ALG@thistlm=\skip74
+\c@ALG@Lnr=\count183
+\c@ALG@blocknr=\count184
+\c@ALG@storecount=\count185
+\c@ALG@tmpcounter=\count186
+\ALG@tmplength=\skip75
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen140
+\TX@old@table=\dimen141
+\TX@old@col=\dimen142
+\TX@target=\dimen143
+\TX@delta=\dimen144
+\TX@cols=\count187
+\TX@ftn=\toks21
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip76
+\RaggedLeftLeftskip=\skip77
+\RaggedRightLeftskip=\skip78
+\CenteringRightskip=\skip79
+\RaggedLeftRightskip=\skip80
+\RaggedRightRightskip=\skip81
+\CenteringParfillskip=\skip82
+\RaggedLeftParfillskip=\skip83
+\RaggedRightParfillskip=\skip84
+\JustifyingParfillskip=\skip85
+\CenteringParindent=\skip86
+\RaggedLeftParindent=\skip87
+\RaggedRightParindent=\skip88
+\JustifyingParindent=\skip89
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count188
+\float@exts=\toks22
+\float@box=\box52
+\@float@everytoks=\toks23
+\@floatcapt=\box53
+)
+\@float@every@algorithm=\toks24
+\c@algorithm=\count189
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen145
+\lightrulewidth=\dimen146
+\cmidrulewidth=\dimen147
+\belowrulesep=\dimen148
+\belowbottomsep=\dimen149
+\aboverulesep=\dimen150
+\abovetopsep=\dimen151
+\cmidrulesep=\dimen152
+\cmidrulekern=\dimen153
+\defaultaddspace=\dimen154
+\@cmidla=\count190
+\@cmidlb=\count191
+\@aboverulesep=\dimen155
+\@belowrulesep=\dimen156
+\@thisruleclass=\count192
+\@lastruleclass=\count193
+\@thisrulewidth=\dimen157
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip90
+\afterepigraphskip=\skip91
+\epigraphwidth=\skip92
+\epigraphrule=\skip93
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen158
+\Hy@linkcounter=\count194
+\Hy@pagecounter=\count195
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count196
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count197
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen159
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count198
+\Field@Width=\dimen160
+\Fld@charsize=\dimen161
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count199
+\c@Item=\count266
+\c@Hfootnote=\count267
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count268
+\c@bookmark@seq@number=\count269
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip94
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/08/11 v1.3c Input encoding file
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip95
+\bibsep=\skip96
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citeauthor on input line 712.
+LaTeX Info: Redefining \citeyear on input line 735.
+\c@NAT@ctr=\count270
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/multibib/multibib.sty
+Package: multibib 2008/12/10 v1.4 Multiple bibliographies for one document.
+\mb@biblabelwidth=\count271
+)
+\@auxoutAppndx=\write3
+
+(./Appndx.aux)
+\openout3 = `Appndx.aux'.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip97
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen164
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen165
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count272
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count273
+\leftroot@=\count274
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count275
+\DOTSCASE@=\count276
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count277
+\c@MaxMatrixCols=\count278
+\dotsspace@=\muskip17
+\c@parentequation=\count279
+\dspbrk@lvl=\count280
+\tag@help=\toks28
+\row@=\count281
+\column@=\count282
+\maxfields@=\count283
+\andhelp@=\toks29
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks30
+\multlinegap=\skip98
+\multlinetaggap=\skip99
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box56
+\shadowsize=\dimen173
+\@Sbox=\box57
+\do@VerbBox=\toks32
+\the@fancyput=\toks33
+\this@fancyput=\toks34
+\EndVerbatimTokens=\toks35
+\Verbatim@Outfile=\write4
+\Verbatim@Infile=\read2
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count284
+\c@@ppsavesec=\count285
+\c@@ppsaveapp=\count286
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count287
+\lst@gtempboxa=\box58
+\lst@token=\toks36
+\lst@length=\count288
+\lst@currlwidth=\dimen174
+\lst@column=\count289
+\lst@pos=\count290
+\lst@lostspace=\dimen175
+\lst@width=\dimen176
+\lst@newlines=\count291
+\lst@lineno=\count292
+\lst@maxwidth=\dimen177
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count293
+\lst@skipnumbers=\count294
+\lst@framebox=\box59
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/xr.sty
+Package: xr 2019/07/22 v5.05 eXternal References (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks37
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip100
+\LTright=\skip101
+\LTpre=\skip102
+\LTpost=\skip103
+\LTchunksize=\count295
+\LTcapwidth=\dimen178
+\LT@head=\box60
+\LT@firsthead=\box61
+\LT@foot=\box62
+\LT@lastfoot=\box63
+\LT@cols=\count296
+\LT@rows=\count297
+\c@LT@tables=\count298
+\c@LT@chunks=\count299
+\LT@p@ftn=\toks38
+)
+Class scrartcl Info: longtable captions redefined on input line 129.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box64
+\sift@deathcycles=\count300
+\@vwid@loff=\dimen179
+\@vwid@roff=\dimen180
+)
+\c@taburow=\count301
+\tabu@nbcols=\count302
+\tabu@cnt=\count303
+\tabu@Xcol=\count304
+\tabu@alloc=\count305
+\tabu@nested=\count306
+\tabu@target=\dimen181
+\tabu@spreadtarget=\dimen182
+\tabu@naturalX=\dimen183
+\tabucolX=\dimen184
+\tabu@Xsum=\dimen185
+\extrarowdepth=\dimen186
+\abovetabulinesep=\dimen187
+\belowtabulinesep=\dimen188
+\tabustrutrule=\dimen189
+\tabu@thebody=\toks39
+\tabu@footnotes=\toks40
+\tabu@box=\box65
+\tabu@arstrutbox=\box66
+\tabu@hleads=\box67
+\tabu@vleads=\box68
+\tabu@cellskip=\skip104
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen190
+\captionmargin@=\dimen191
+\captionwidth=\dimen192
+\caption@tempdima=\dimen193
+\caption@indent=\dimen194
+\caption@parindent=\dimen195
+\caption@hangindent=\dimen196
+Package caption Info: KOMA-Script document class detected.
+)
+Package caption Info: KOMA-Script document class.
+\c@caption@flags=\count307
+\c@continuedfloat=\count308
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: threeparttable package is loaded.
+)
+\c@KVtest=\count309
+\sf@farskip=\skip105
+\sf@captopadj=\dimen197
+\sf@capskip=\skip106
+\sf@nearskip=\skip107
+\c@subfigure=\count310
+\c@subfigure@save=\count311
+\c@lofdepth=\count312
+\c@subtable=\count313
+\c@subtable@save=\count314
+\c@lotdepth=\count315
+\sf@top=\skip108
+\sf@bottom=\skip109
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count316
+\Gm@cntv=\count317
+\c@Gm@tempcnt=\count318
+\Gm@bindingoffset=\dimen198
+\Gm@wd@mp=\dimen199
+\Gm@odd@mp=\dimen256
+\Gm@even@mp=\dimen257
+\Gm@layoutwidth=\dimen258
+\Gm@layoutheight=\dimen259
+\Gm@layouthoffset=\dimen260
+\Gm@layoutvoffset=\dimen261
+\Gm@dimlist=\toks41
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks42
+\pgfutil@tempdima=\dimen262
+\pgfutil@tempdimb=\dimen263
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box69
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks43
+\pgfkeys@temptoks=\toks44
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks45
+))
+\pgf@x=\dimen264
+\pgf@y=\dimen265
+\pgf@xa=\dimen266
+\pgf@ya=\dimen267
+\pgf@xb=\dimen268
+\pgf@yb=\dimen269
+\pgf@xc=\dimen270
+\pgf@yc=\dimen271
+\pgf@xd=\dimen272
+\pgf@yd=\dimen273
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count319
+\c@pgf@countb=\count320
+\c@pgf@countc=\count321
+\c@pgf@countd=\count322
+\t@pgf@toka=\toks46
+\t@pgf@tokb=\toks47
+\t@pgf@tokc=\toks48
+\pgf@sys@id@count=\count323
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count324
+\pgfsyssoftpath@bigbuffer@items=\count325
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen274
+\pgfmath@count=\count326
+\pgfmath@box=\box70
+\pgfmath@toks=\toks49
+\pgfmath@stack@operand=\toks50
+\pgfmath@stack@operation=\toks51
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count327
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen275
+\pgf@picmaxx=\dimen276
+\pgf@picminy=\dimen277
+\pgf@picmaxy=\dimen278
+\pgf@pathminx=\dimen279
+\pgf@pathmaxx=\dimen280
+\pgf@pathminy=\dimen281
+\pgf@pathmaxy=\dimen282
+\pgf@xx=\dimen283
+\pgf@xy=\dimen284
+\pgf@yx=\dimen285
+\pgf@yy=\dimen286
+\pgf@zx=\dimen287
+\pgf@zy=\dimen288
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen289
+\pgf@path@lasty=\dimen290
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen291
+\pgf@shorten@start@additional=\dimen292
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box71
+\pgf@hbox=\box72
+\pgf@layerbox@main=\box73
+\pgf@picture@serial@count=\count328
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen293
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen294
+\pgf@pt@y=\dimen295
+\pgf@pt@temp=\dimen296
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen297
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen298
+\pgf@sys@shading@range@num=\count329
+\pgf@shadingcount=\count330
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box74
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box75
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen299
+\pgf@nodesepend=\dimen300
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen301
+\pgffor@skip=\dimen302
+\pgffor@stack=\toks52
+\pgffor@toks=\toks53
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count331
+\pgfplotmarksize=\dimen303
+)
+\tikz@lastx=\dimen304
+\tikz@lasty=\dimen305
+\tikz@lastxsaved=\dimen306
+\tikz@lastysaved=\dimen307
+\tikz@lastmovetox=\dimen308
+\tikz@lastmovetoy=\dimen309
+\tikzleveldistance=\dimen310
+\tikzsiblingdistance=\dimen311
+\tikz@figbox=\box76
+\tikz@figbox@bg=\box77
+\tikz@tempbox=\box78
+\tikz@tempbox@bg=\box79
+\tikztreelevel=\count332
+\tikznumberofchildren=\count333
+\tikznumberofcurrentchild=\count334
+\tikz@fig@count=\count335
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count336
+\pgfmatrixcurrentcolumn=\count337
+\pgf@matrix@numberofcolumns=\count338
+)
+\tikz@expandcount=\count339
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+\c@Definition=\count340
+\c@Remark=\count341
+\c@Lemma=\count342
+\c@Theorem=\count343
+\c@Excercise=\count344
+\c@Result=\count345
+\c@Proposition=\count346
+\c@Prediction=\count347
+\c@Solution=\count348
+\c@Problem=\count349
+) (./files/title.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count350
+\l__pdf_internal_box=\box80
+)
+
+LaTeX Warning: Unused global option(s):
+    [bold].
+
+(./main.aux (./files/s-appendix.aux
+
+LaTeX Warning: Label `type 0' multiply defined.
+
+
+LaTeX Warning: Label `sub@type 0' multiply defined.
+
+
+LaTeX Warning: Label `type 2' multiply defined.
+
+
+LaTeX Warning: Label `sub@type 2' multiply defined.
+
+))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+Package scrbase Info: activating english \contentsname on input line 8.
+Package scrbase Info: activating english \listfigurename on input line 8.
+Package scrbase Info: activating english \listtablename on input line 8.
+ (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count351
+\scratchdimen=\dimen312
+\scratchbox=\box81
+\nofMPsegments=\count352
+\nofMParguments=\count353
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count354
+\MPscratchDim=\dimen313
+\MPnumerator=\count355
+\makeMPintoPDFobject=\count356
+\everyMPtoPDFconversion=\toks55
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@maskedRefs=\count357
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 8.
+\AtBeginShipoutBox=\box82
+Package hyperref Info: Link coloring ON on input line 8.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count358
+)
+LaTeX Info: Redefining \ref on input line 8.
+LaTeX Info: Redefining \pageref on input line 8.
+LaTeX Info: Redefining \nameref on input line 8.
+ (./main.out) (./main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
+Class scrartcl Info: loading recommended package `bookmark'.
+(scrartcl)           Using `bookmark' together with `hyperref' is recommended,
+(scrartcl)           because of handling of possible bookmark level gaps.
+(scrartcl)           You can avoid loading `bookmark' with KOMA-Script option
+(scrartcl)           `bookmarkpackage=false' before \begin{document} and
+(scrartcl)           you can avoid this message adding:
+(scrartcl)             \usepackage{bookmark}
+(scrartcl)           before \begin{document} on input line 8.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
+Package auxhook Info: \AddLineBeginMainAux comes a little late,
+(auxhook)             because the main .aux file is already opened on input lin
+e 168.
+\BKM@id=\count359
+))
+\c@lstlisting=\count360
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-55.23949pt
+* \headheight=18.125pt
+* \headsep=21.75pt
+* \topskip=12.0pt
+* \footskip=28.45274pt
+* \marginparwidth=49.79233pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=28.45274pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros (./files/titlepage.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+4.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (26.83423pt too wide) in paragraph at lines 4--4
+ [][] 
+ []
+
+
+Package natbib Warning: Citation `Keane.1997' on page 1 undefined on input line
+ 10.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+[1
+
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./main.toc
+Overfull \hbox (1.58777pt too wide) detected at line 13
+ []\OT1/cmss/bx/n/12 A-1
+ []
+
+
+Overfull \hbox (0.38747pt too wide) detected at line 14
+ []\OT1/cmr/m/n/12 A-1
+ []
+
+
+Overfull \hbox (0.38747pt too wide) detected at line 23
+ []\OT1/cmr/m/n/12 A-6
+ []
+
+
+Overfull \hbox (0.38747pt too wide) detected at line 24
+ []\OT1/cmr/m/n/12 A-9
+ []
+
+)
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+ [2]) (./files/s-introduction.tex
+
+Package natbib Warning: Citation `Wolpin.2013' on page 1 undefined on input lin
+e 7.
+
+
+Package natbib Warning: Citation `Hood.1953' on page 1 undefined on input line 
+7.
+
+
+Package natbib Warning: Citation `Saltelli.2020' on page 1 undefined on input l
+ine 7.
+
+
+Package natbib Warning: Citation `Council.2012' on page 1 undefined on input li
+ne 7.
+
+
+Package natbib Warning: Citation `SAPEA.2019' on page 1 undefined on input line
+ 7.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Package natbib Warning: Citation `Adda.2017' on page 1 undefined on input line 
+9.
+
+
+Package natbib Warning: Citation `Blundell.2016' on page 1 undefined on input l
+ine 9.
+
+
+Package natbib Warning: Citation `Eckstein.2019' on page 1 undefined on input l
+ine 9.
+
+
+Package natbib Warning: Citation `Eisenhauer.2015b' on page 1 undefined on inpu
+t line 9.
+
+
+Package natbib Warning: Citation `Blundell.2012' on page 1 undefined on input l
+ine 9.
+
+
+Package natbib Warning: Citation `Cunha.2010' on page 1 undefined on input line
+ 9.
+
+
+Package natbib Warning: Citation `Gayle.2019' on page 1 undefined on input line
+ 9.
+
+
+Package natbib Warning: Citation `Todd.2006' on page 1 undefined on input line 
+9.
+
+
+Package natbib Warning: Citation `Keane.2011d' on page 1 undefined on input lin
+e 9.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Package natbib Warning: Citation `Manski.2021' on page 1 undefined on input lin
+e 11.
+
+
+Package natbib Warning: Citation `Ben-Tal.2013' on page 1 undefined on input li
+ne 11.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Package natbib Warning: Citation `Manski.2013' on page 1 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `Gilboa.2018' on page 1 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `Gilboa.2021' on page 1 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `Berger.2021' on page 1 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `Manski.2019' on page 1 undefined on input lin
+e 13.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 \noindent
+               We tailor our approach to the class of Eckstein-Keane-Wolpin ...
+[1
+
+]
+
+Package natbib Warning: Citation `Aguirregabiria.2010' on page 2 undefined on i
+nput line 15.
+
+
+Package natbib Warning: Citation `Keane.2011d' on page 2 undefined on input lin
+e 15.
+
+
+Package natbib Warning: Citation `Low.2017' on page 2 undefined on input line 1
+5.
+
+
+Package natbib Warning: Citation `Blundell.2017' on page 2 undefined on input l
+ine 15.
+
+
+Package natbib Warning: Citation `Wald.1950' on page 2 undefined on input line 
+15.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Package natbib Warning: Citation `Keane.1997' on page 2 undefined on input line
+ 17.
+
+
+Package natbib Warning: Citation `NLSY.2019' on page 2 undefined on input line 
+17.
+
+
+Package natbib Warning: Citation `Woutersen.2019' on page 2 undefined on input 
+line 17.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Package natbib Warning: Citation `Harenberg.2019' on page 2 undefined on input 
+line 19.
+
+
+Package natbib Warning: Citation `Cai.2019' on page 2 undefined on input line 1
+9.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Package natbib Warning: Citation `Andrews.2017' on page 2 undefined on input li
+ne 21.
+
+
+Package natbib Warning: Citation `Andrews.2020' on page 2 undefined on input li
+ne 21.
+
+
+Package natbib Warning: Citation `Christensen.2019' on page 2 undefined on inpu
+t line 21.
+
+
+Package natbib Warning: Citation `Jorgensen.2021' on page 2 undefined on input 
+line 21.
+
+
+Package natbib Warning: Citation `Armstrong.2021' on page 2 undefined on input 
+line 21.
+
+
+Package natbib Warning: Citation `Bonhomme.2021' on page 2 undefined on input l
+ine 21.
+
+
+Package natbib Warning: Citation `Bugni.2019' on page 2 undefined on input line
+ 21.
+
+
+Package natbib Warning: Citation `Mukhin.2018' on page 2 undefined on input lin
+e 21.
+
+
+Package natbib Warning: Citation `Kalouptsidi.2021a' on page 2 undefined on inp
+ut line 21.
+
+
+Package natbib Warning: Citation `Kalouptsidi.2021' on page 2 undefined on inpu
+t line 21.
+
+
+Package natbib Warning: Citation `Norets.2014' on page 2 undefined on input lin
+e 21.
+
+
+Package natbib Warning: Citation `Rust.1987' on page 2 undefined on input line 
+21.
+
+
+Package natbib Warning: Citation `Blesch.2021' on page 2 undefined on input lin
+e 21.
+
+
+Package natbib Warning: Citation `Rust.1987' on page 2 undefined on input line 
+21.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22 
+      [2]
+
+Package natbib Warning: Citation `Keane.1997' on page 3 undefined on input line
+ 23.
+
+) (./files/s-framework.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Package natbib Warning: Citation `Keane.1997' on page 3 undefined on input line
+ 17.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+<../material/fig-illustration-comparison-model-4-bw.pdf, id=80, 867.24pt x 578.
+16pt>
+File: ../material/fig-illustration-comparison-model-4-bw.pdf Graphic file (type
+ pdf)
+<use ../material/fig-illustration-comparison-model-4-bw.pdf>
+Package pdftex.def Info: ../material/fig-illustration-comparison-model-4-bw.pdf
+  used on input line 24.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+Package natbib Warning: Citation `Manski.2021' on page 4 undefined on input lin
+e 37.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+[4 <../material/fig-illustration-comparison-model-4-bw.pdf>]
+
+Package natbib Warning: Citation `Ben-Tal.2013' on page 5 undefined on input li
+ne 39.
+
+
+Package natbib Warning: Citation `Bertsimas.2018' on page 5 undefined on input 
+line 39.
+
+
+Package natbib Warning: Citation `Gilboa.2009' on page 5 undefined on input lin
+e 45.
+
+
+Package natbib Warning: Citation `Marinacci.2015' on page 5 undefined on input 
+line 45.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+<../material/fig-illustration-comparison-bw.pdf, id=113, 867.24pt x 578.16pt>
+File: ../material/fig-illustration-comparison-bw.pdf Graphic file (type pdf)
+<use ../material/fig-illustration-comparison-bw.pdf>
+Package pdftex.def Info: ../material/fig-illustration-comparison-bw.pdf  used o
+n input line 52.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
+
+ []
+
+
+Package natbib Warning: Citation `Gilboa.1989' on page 6 undefined on input lin
+e 66.
+
+
+Package natbib Warning: Citation `Wald.1950' on page 6 undefined on input line 
+66.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
+
+ []
+
+
+Package natbib Warning: Citation `Manski.2004' on page 6 undefined on input lin
+e 74.
+
+
+Package natbib Warning: Citation `Niehans.1948' on page 6 undefined on input li
+ne 74.
+
+[6 <../material/fig-illustration-comparison-bw.pdf>]
+<../material/fig-illustration-comparison-regret-bw.pdf, id=149, 867.24pt x 578.
+16pt>
+File: ../material/fig-illustration-comparison-regret-bw.pdf Graphic file (type 
+pdf)
+<use ../material/fig-illustration-comparison-regret-bw.pdf>
+Package pdftex.def Info: ../material/fig-illustration-comparison-regret-bw.pdf 
+ used on input line 83.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Package natbib Warning: Citation `Savage.1954' on page 7 undefined on input lin
+e 89.
+
+) [7 <../material/fig-illustration-comparison-regret-bw.pdf>]
+(./files/s-setting.tex
+
+Package natbib Warning: Citation `Aguirregabiria.2010' on page 8 undefined on i
+nput line 5.
+
+
+Package natbib Warning: Citation `Keane.1997' on page 8 undefined on input line
+ 5.
+
+
+Package natbib Warning: Citation `Gilboa.2009' on page 8 undefined on input lin
+e 11.
+
+
+Package natbib Warning: Citation `Machina.2014' on page 8 undefined on input li
+ne 11.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+(../material/fig-timing-events.tex
+Missing character: There is no [ in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no t in font nullfont!
+)
+
+Package natbib Warning: Citation `Muth.1961' on page 8 undefined on input line 
+22.
+
+
+Package natbib Warning: Citation `Kahneman.1997' on page 8 undefined on input l
+ine 22.
+
+
+Package natbib Warning: Citation `Samuelson.1937' on page 8 undefined on input 
+line 22.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+[8]
+
+Package natbib Warning: Citation `Puterman.1994' on page 9 undefined on input l
+ine 30.
+
+
+Package natbib Warning: Citation `Rust.1994' on page 9 undefined on input line 
+30.
+
+
+Package natbib Warning: Citation `White.1993' on page 9 undefined on input line
+ 30.
+
+
+Package natbib Warning: Citation `Gabler.2020b' on page 9 undefined on input li
+ne 30.
+
+
+Package natbib Warning: Citation `Keane.1997' on page 9 undefined on input line
+ 36.
+
+
+Package natbib Warning: Citation `NLSY.2019' on page 9 undefined on input line 
+36.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Package natbib Warning: Citation `Keane.1997' on page 9 undefined on input line
+ 38.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+(../material/fig-decision-tree-bw.tex) [9]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Package natbib Warning: Citation `Altonji.1993' on page 10 undefined on input l
+ine 58.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
+
+ []
+
+
+Package natbib Warning: Citation `Keane.1997' on page 11 undefined on input lin
+e 78.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Package natbib Warning: Citation `Keane.1997' on page 11 undefined on input lin
+e 80.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+[11]
+<../material/fig-observed-data-choices-bw.pdf, id=214, 867.24pt x 578.16pt>
+File: ../material/fig-observed-data-choices-bw.pdf Graphic file (type pdf)
+<use ../material/fig-observed-data-choices-bw.pdf>
+Package pdftex.def Info: ../material/fig-observed-data-choices-bw.pdf  used on 
+input line 85.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-observed-wage-mean-bw.pdf, id=215, 867.24pt x 578.16pt>
+File: ../material/fig-observed-wage-mean-bw.pdf Graphic file (type pdf)
+<use ../material/fig-observed-wage-mean-bw.pdf>
+Package pdftex.def Info: ../material/fig-observed-wage-mean-bw.pdf  used on inp
+ut line 86.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Package natbib Warning: Citation `Fisher.1922' on page 12 undefined on input li
+ne 99.
+
+
+Package natbib Warning: Citation `Manski.1977' on page 12 undefined on input li
+ne 99.
+
+[12 <../material/fig-observed-data-choices-bw.pdf> <../material/fig-observed-wa
+ge-mean-bw.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--106
+
+ []
+
+<../material/fig-model-fit-wage-all-bw.pdf, id=235, 867.24pt x 578.16pt>
+File: ../material/fig-model-fit-wage-all-bw.pdf Graphic file (type pdf)
+<use ../material/fig-model-fit-wage-all-bw.pdf>
+Package pdftex.def Info: ../material/fig-model-fit-wage-all-bw.pdf  used on inp
+ut line 110.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-model-fit-choice-blue-bw.pdf, id=236, 867.24pt x 578.16pt>
+File: ../material/fig-model-fit-choice-blue-bw.pdf Graphic file (type pdf)
+<use ../material/fig-model-fit-choice-blue-bw.pdf>
+Package pdftex.def Info: ../material/fig-model-fit-choice-blue-bw.pdf  used on 
+input line 111.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+Package natbib Warning: Citation `Efron.1979' on page 13 undefined on input lin
+e 121.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+[13 <../material/fig-model-fit-wage-all-bw.pdf> <../material/fig-model-fit-choi
+ce-blue-bw.pdf>]
+
+Package natbib Warning: Citation `Rao.1973' on page 14 undefined on input line 
+123.
+
+
+Package natbib Warning: Citation `Woutersen.2019' on page 14 undefined on input
+ line 123.
+
+
+Package natbib Warning: Citation `Reich.2020' on page 14 undefined on input lin
+e 123.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 129.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+[14]) (./files/s-results.tex
+
+Package natbib Warning: Citation `Blesch.2021' on page 15 undefined on input li
+ne 7.
+
+
+Package natbib Warning: Citation `Wald.1950' on page 15 undefined on input line
+ 7.
+
+
+Package natbib Warning: Citation `Manski.2021' on page 15 undefined on input li
+ne 7.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Package natbib Warning: Citation `Keane.1997' on page 15 undefined on input lin
+e 9.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+<../material/fig-policy-average-years-bw.pdf, id=268, 867.24pt x 578.16pt>
+File: ../material/fig-policy-average-years-bw.pdf Graphic file (type pdf)
+<use ../material/fig-policy-average-years-bw.pdf>
+Package pdftex.def Info: ../material/fig-policy-average-years-bw.pdf  used on i
+nput line 16.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+[15]
+<../material/fig-trace-delta-bw.pdf, id=276, 867.24pt x 578.16pt>
+File: ../material/fig-trace-delta-bw.pdf Graphic file (type pdf)
+<use ../material/fig-trace-delta-bw.pdf>
+Package pdftex.def Info: ../material/fig-trace-delta-bw.pdf  used on input line
+ 23.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+
+Package natbib Warning: Citation `Keane.1997' on page 16 undefined on input lin
+e 29.
+
+
+Package natbib Warning: Citation `Caucutt.2020' on page 16 undefined on input l
+ine 29.
+
+
+Package natbib Warning: Citation `Erosa.2010' on page 16 undefined on input lin
+e 29.
+
+
+Package natbib Warning: Citation `Todd.2007' on page 16 undefined on input line
+ 29.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+[16 <../material/fig-policy-average-years-bw.pdf> <../material/fig-trace-delta-
+bw.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+<../material/fig-average-choices-by-type-bw.pdf, id=304, 867.24pt x 578.16pt>
+File: ../material/fig-average-choices-by-type-bw.pdf Graphic file (type pdf)
+<use ../material/fig-average-choices-by-type-bw.pdf>
+Package pdftex.def Info: ../material/fig-average-choices-by-type-bw.pdf  used o
+n input line 36.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-final-schooling-type-1-3-bw.pdf, id=305, 867.24pt x 578.16pt>
+File: ../material/fig-final-schooling-type-1-3-bw.pdf Graphic file (type pdf)
+<use ../material/fig-final-schooling-type-1-3-bw.pdf>
+Package pdftex.def Info: ../material/fig-final-schooling-type-1-3-bw.pdf  used 
+on input line 37.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+<../material/fig-policy-average-years-type-0-bw.pdf, id=307, 867.24pt x 578.16p
+t>
+File: ../material/fig-policy-average-years-type-0-bw.pdf Graphic file (type pdf
+)
+<use ../material/fig-policy-average-years-type-0-bw.pdf>
+Package pdftex.def Info: ../material/fig-policy-average-years-type-0-bw.pdf  us
+ed on input line 46.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-policy-average-years-type-2-bw.pdf, id=308, 867.24pt x 578.16p
+t>
+File: ../material/fig-policy-average-years-type-2-bw.pdf Graphic file (type pdf
+)
+<use ../material/fig-policy-average-years-type-2-bw.pdf>
+Package pdftex.def Info: ../material/fig-policy-average-years-type-2-bw.pdf  us
+ed on input line 47.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+[17 <../material/fig-average-choices-by-type-bw.pdf> <../material/fig-final-sch
+ooling-type-1-3-bw.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+<../material/fig-criterion-policy-ranks-bw.pdf, id=328, 867.24pt x 578.16pt>
+File: ../material/fig-criterion-policy-ranks-bw.pdf Graphic file (type pdf)
+<use ../material/fig-criterion-policy-ranks-bw.pdf>
+Package pdftex.def Info: ../material/fig-criterion-policy-ranks-bw.pdf  used on
+ input line 58.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18 <../material/fig-policy-average-years-type-0-bw.pdf> <../material/fig-polic
+y-average-years-type-2-bw.pdf>]) (./files/s-conclusion.tex
+
+Package natbib Warning: Citation `Keane.1997' on page 19 undefined on input lin
+e 5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Package natbib Warning: Citation `Armstrong.2021' on page 19 undefined on input
+ line 7.
+
+
+Package natbib Warning: Citation `Bonhomme.2021' on page 19 undefined on input 
+line 7.
+
+
+Package natbib Warning: Citation `Razavi.2021' on page 19 undefined on input li
+ne 7.
+
+
+Package natbib Warning: Citation `Owen.2014' on page 19 undefined on input line
+ 7.
+
+
+Package natbib Warning: Citation `Shapley.1953' on page 19 undefined on input l
+ine 7.
+
+
+Package natbib Warning: Citation `Forrester.2008' on page 19 undefined on input
+ line 7.
+
+) [19 <../material/fig-criterion-policy-ranks-bw.pdf>] (./main.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+
+) [20]
+\openout2 = `files/s-appendix.aux'.
+
+ (./files/s-appendix.tex (./files/s-appendix-computation.tex
+
+Package natbib Warning: Citation `Keane.1997' on page A-1 undefined on input li
+ne 5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+
+ []
+
+[1
+
+]
+
+Package natbib Warning: Citation `Altonji.1993' on page A-2 undefined on input 
+line 78.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 98--101
+
+ []
+
+[3]
+
+Package natbib Warning: Citation `Mincer.1974' on page A-4 undefined on input l
+ine 120.
+
+
+Package natbib Warning: Citation `Hungerford.1987' on page A-4 undefined on inp
+ut line 120.
+
+
+Package natbib Warning: Citation `Jaeger.1996' on page A-4 undefined on input l
+ine 120.
+
+
+Package natbib Warning: Citation `Keane.1997' on page A-4 undefined on input li
+ne 145.
+
+[4] (../material/tab-model-parameters.tex
+
+Package natbib Warning: Citation `Keane.1997' on page A-5 undefined on input li
+ne 8.
+
+
+Package natbib Warning: Citation `Keane.1997' on page A-5 undefined on input li
+ne 8.
+
+
+Underfull \vbox (badness 10000) detected at line 66
+ []
+
+[5])) (./files/s-appendix-data.tex
+
+Package natbib Warning: Citation `Keane.1997' on page A-6 undefined on input li
+ne 5.
+
+
+Package natbib Warning: Citation `NLSY.2019' on page A-6 undefined on input lin
+e 5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+<../material/fig-sample-size-bw.pdf, id=436, 867.24pt x 578.16pt>
+File: ../material/fig-sample-size-bw.pdf Graphic file (type pdf)
+<use ../material/fig-sample-size-bw.pdf>
+Package pdftex.def Info: ../material/fig-sample-size-bw.pdf  used on input line
+ 10.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+<../material/fig-initial-schooling-bw.pdf, id=438, 867.24pt x 578.16pt>
+File: ../material/fig-initial-schooling-bw.pdf Graphic file (type pdf)
+<use ../material/fig-initial-schooling-bw.pdf>
+Package pdftex.def Info: ../material/fig-initial-schooling-bw.pdf  used on inpu
+t line 17.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+[7 <../material/fig-sample-size-bw.pdf> <../material/fig-initial-schooling-bw.p
+df>]
+<../material/fig-average-choices-by-initial-schooling-bw.pdf, id=457, 867.24pt 
+x 578.16pt>
+File: ../material/fig-average-choices-by-initial-schooling-bw.pdf Graphic file 
+(type pdf)
+<use ../material/fig-average-choices-by-initial-schooling-bw.pdf>
+Package pdftex.def Info: ../material/fig-average-choices-by-initial-schooling-b
+w.pdf  used on input line 24.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+<../material/fig-heatmap-transitionprobs-bw.pdf, id=459, 867.24pt x 578.16pt>
+File: ../material/fig-heatmap-transitionprobs-bw.pdf Graphic file (type pdf)
+<use ../material/fig-heatmap-transitionprobs-bw.pdf>
+Package pdftex.def Info: ../material/fig-heatmap-transitionprobs-bw.pdf  used o
+n input line 31.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+) (./files/s-appendix-results.tex
+<../material/fig-model-fit-choice-white-bw.pdf, id=461, 867.24pt x 578.16pt>
+File: ../material/fig-model-fit-choice-white-bw.pdf Graphic file (type pdf)
+<use ../material/fig-model-fit-choice-white-bw.pdf>
+Package pdftex.def Info: ../material/fig-model-fit-choice-white-bw.pdf  used on
+ input line 8.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-model-fit-choice-military-bw.pdf, id=462, 867.24pt x 578.16pt>
+
+File: ../material/fig-model-fit-choice-military-bw.pdf Graphic file (type pdf)
+<use ../material/fig-model-fit-choice-military-bw.pdf>
+Package pdftex.def Info: ../material/fig-model-fit-choice-military-bw.pdf  used
+ on input line 9.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-model-fit-choice-school-bw.pdf, id=463, 867.24pt x 578.16pt>
+File: ../material/fig-model-fit-choice-school-bw.pdf Graphic file (type pdf)
+<use ../material/fig-model-fit-choice-school-bw.pdf>
+Package pdftex.def Info: ../material/fig-model-fit-choice-school-bw.pdf  used o
+n input line 10.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-model-fit-choice-home-bw.pdf, id=464, 867.24pt x 578.16pt>
+File: ../material/fig-model-fit-choice-home-bw.pdf Graphic file (type pdf)
+<use ../material/fig-model-fit-choice-home-bw.pdf>
+Package pdftex.def Info: ../material/fig-model-fit-choice-home-bw.pdf  used on 
+input line 11.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+ [8 <../material/fig-average-choices-by-initial-schooling-bw.pdf> <../material/
+fig-heatmap-transitionprobs-bw.pdf>]
+File: ../material/fig-policy-average-years-type-0-bw.pdf Graphic file (type pdf
+)
+<use ../material/fig-policy-average-years-type-0-bw.pdf>
+Package pdftex.def Info: ../material/fig-policy-average-years-type-0-bw.pdf  us
+ed on input line 18.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-policy-average-years-type-1-bw.pdf, id=485, 867.24pt x 578.16p
+t>
+File: ../material/fig-policy-average-years-type-1-bw.pdf Graphic file (type pdf
+)
+<use ../material/fig-policy-average-years-type-1-bw.pdf>
+Package pdftex.def Info: ../material/fig-policy-average-years-type-1-bw.pdf  us
+ed on input line 19.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+File: ../material/fig-policy-average-years-type-2-bw.pdf Graphic file (type pdf
+)
+<use ../material/fig-policy-average-years-type-2-bw.pdf>
+Package pdftex.def Info: ../material/fig-policy-average-years-type-2-bw.pdf  us
+ed on input line 20.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-policy-average-years-type-3-bw.pdf, id=486, 867.24pt x 578.16p
+t>
+File: ../material/fig-policy-average-years-type-3-bw.pdf Graphic file (type pdf
+)
+<use ../material/fig-policy-average-years-type-3-bw.pdf>
+Package pdftex.def Info: ../material/fig-policy-average-years-type-3-bw.pdf  us
+ed on input line 21.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <../material/fig-model-fit-choice-white-bw.pdf> <../material/fig-model-fit-c
+hoice-military-bw.pdf> <../material/fig-model-fit-choice-school-bw.pdf> <../mat
+erial/fig-model-fit-choice-home-bw.pdf>]
+<../material/fig-policy-impact-delta-low-bw.pdf, id=515, 867.24pt x 578.16pt>
+File: ../material/fig-policy-impact-delta-low-bw.pdf Graphic file (type pdf)
+<use ../material/fig-policy-impact-delta-low-bw.pdf>
+Package pdftex.def Info: ../material/fig-policy-impact-delta-low-bw.pdf  used o
+n input line 28.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+<../material/fig-policy-impact-delta-high-bw.pdf, id=516, 867.24pt x 578.16pt>
+File: ../material/fig-policy-impact-delta-high-bw.pdf Graphic file (type pdf)
+<use ../material/fig-policy-impact-delta-high-bw.pdf>
+Package pdftex.def Info: ../material/fig-policy-impact-delta-high-bw.pdf  used 
+on input line 29.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+)
+No file Appndx.bbl.
+[10 <../material/fig-policy-average-years-type-1-bw.pdf> <../material/fig-polic
+y-average-years-type-3-bw.pdf> <../material/fig-policy-impact-delta-low-bw.pdf>
+ <../material/fig-policy-impact-delta-high-bw.pdf>])
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
+(./main.aux (./files/s-appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
+ ) 
+Here is how much of TeX's memory you used:
+ 27911 strings out of 480608
+ 510870 string characters out of 5903630
+ 928967 words of memory out of 5000000
+ 43074 multiletter control sequences out of 15000+600000
+ 556433 words of font info for 111 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,18n,83p,10120b,997s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
+local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loca
+l/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/
+texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/
+texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texli
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/202
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/202
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2020/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2020/tex
+mf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2020/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2020/tex
+mf-dist/fonts/type1/public/cm-super/sfrm2986.pfb></usr/local/texlive/2020/texmf
+-dist/fonts/type1/public/cm-super/sfsx2074.pfb>
+Output written on main.pdf (32 pages, 699360 bytes).
+PDF statistics:
+ 720 PDF objects out of 1000 (max. 8388607)
+ 612 compressed objects within 7 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 307 words of extra memory for PDF output out of 10000 (max. 10000000)
+

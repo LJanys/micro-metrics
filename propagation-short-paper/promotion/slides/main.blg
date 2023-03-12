@@ -1,0 +1,24 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is '/Users/lenajanys/Documents/GitHub/propagation-short-paper/promotion/slides/main.blg'
+[74] biber-darwin:322> INFO - === Mon Apr 18, 2022, 12:19:26
+[91] Biber.pm:415> INFO - Reading '/Users/lenajanys/Documents/GitHub/propagation-short-paper/promotion/slides/main.bcf'
+[191] Biber.pm:943> INFO - Found 25 citekeys in bib section 0
+[210] Biber.pm:4256> INFO - Processing section 0
+[210] Utils.pm:75> INFO - Globbing data source '../../submodules/bibliography/literature.bib'
+[210] Utils.pm:91> INFO - Globbed data source '../../submodules/bibliography/literature.bib' to ../../submodules/bibliography/literature.bib
+[221] Biber.pm:4455> INFO - Looking for bibtex format file '../../submodules/bibliography/literature.bib' for section 0
+[283] bibtex.pm:1653> INFO - LaTeX decoding ...
+[3540] bibtex.pm:1471> INFO - Found BibTeX data source '../../submodules/bibliography/literature.bib'
+[4083] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/61/nnfv26c12m52tsf_kn9zb6rr0000gn/T/biber_tmp_H76J/literature.bib_15373.utf8, line 7982, warning: 302 characters of junk seen at toplevel
+[4083] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/61/nnfv26c12m52tsf_kn9zb6rr0000gn/T/biber_tmp_H76J/literature.bib_15373.utf8, line 15267, warning: 229 characters of junk seen at toplevel
+[4151] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4151] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4151] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[4151] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[4257] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4257] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4257] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[4257] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[4311] bbl.pm:652> INFO - Writing '/Users/lenajanys/Documents/GitHub/propagation-short-paper/promotion/slides/main.bbl' with encoding 'UTF-8'
+[4365] bbl.pm:755> INFO - Output to /Users/lenajanys/Documents/GitHub/propagation-short-paper/promotion/slides/main.bbl
+[4365] Biber.pm:128> INFO - WARNINGS: 2
